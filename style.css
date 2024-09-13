@@ -6,7 +6,7 @@
 
 body {
     background: url('images.jpeg');
-    background-size: cover;
+    background-size: contain;
 }
 
 #container {
