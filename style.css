@@ -5,7 +5,8 @@
 }
 
 body {
-    background: url('images.jpeg');fasfasf
+    background: url('images.jpeg');
+    width: 100%;
 }
 
 #container {
