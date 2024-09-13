@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Curiosidades',
+    'Oq significa a sigla ROTA?',
+    'Significa rota ostenciva tobias de aguiar '
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Datas',
+    'Quantos anos tem a rota?',
+    '15 de outubro de 1970'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Para que serve ',
+    'Função ?',
+    'É um braço armado da policia militar usada para casos de alto riscos '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Apilidos',
+    'Como são chamados ?',
+    'Os combatentes da ROTA sõa mundialmente conhecido como boinas pretas '
 )
