@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Datas',
-    'Quantos anos tem a rota?',
+    'Quando foi criada a rota?',
     '15 de outubro de 1970'
 )
 
